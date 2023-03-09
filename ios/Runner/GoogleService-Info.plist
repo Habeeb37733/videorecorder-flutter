@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1020075329765-ln81fe9gvndjlpb39f65qlocv0q6leph.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1020075329765-ln81fe9gvndjlpb39f65qlocv0q6leph</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1020075329765-70en53uugo6jars716v0v0v0tlgkliij.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1YZCUAfk0og1DUcYXj-wuU3hspkslzUU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020075329765</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.betodds</string>
+	<key>PROJECT_ID</key>
+	<string>videosve-5d95a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videosve-5d95a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020075329765:ios:c1a43901a15c247ea26c0c</string>
+</dict>
+</plist>

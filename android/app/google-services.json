@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020075329765",
+    "project_id": "videosve-5d95a",
+    "storage_bucket": "videosve-5d95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020075329765:android:b86f388192642aeea26c0c",
+        "android_client_info": {
+          "package_name": "com.example.betodds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020075329765-70en53uugo6jars716v0v0v0tlgkliij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.betodds",
+            "certificate_hash": "a796132dcd2ee695141e876cc93b28ab93e757da"
+          }
+        },
+        {
+          "client_id": "1020075329765-qs010ngvllin3ueu7eml3umnineo1u5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDdP_4wwuiJioUNtiS5JY1iEzOTWxL-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020075329765-qs010ngvllin3ueu7eml3umnineo1u5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
